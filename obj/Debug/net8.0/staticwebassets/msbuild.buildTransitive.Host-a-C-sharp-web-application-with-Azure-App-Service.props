@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Host-a-C-sharp-web-application-with-Azure-App-Service.props" />
+</Project>

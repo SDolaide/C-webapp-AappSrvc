@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Host-a-C-sharp-web-application-with-Azure-App-Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ccc7768f36752a9f24ad01a48458f4c8be0cc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Host-a-C-sharp-web-application-with-Azure-App-Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Host-a-C-sharp-web-application-with-Azure-App-Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
